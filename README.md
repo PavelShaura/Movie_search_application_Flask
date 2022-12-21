@@ -4,7 +4,7 @@
 
 ## **Project Description**
 
-*1. Authentication
+*1. Authentication*
 
 In order for each user to have the opportunity to bookmark their favorite movies for viewing later, we need to somehow differentiate them, so we organize registration and authentication pages based on the already studied JWT specification.
 
