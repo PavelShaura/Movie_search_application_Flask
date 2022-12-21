@@ -18,21 +18,8 @@ Of course, you need to add the most important entities — films, directors and 
 
 Pagination will work for all objects so that we can display them on the screen page by page, and it will also be possible to watch the newest movies.
 It is also necessary for the user to implement a mechanism for adding and deleting movies to /from bookmarks, as well as viewing all movies saved in bookmarks.
+
 Set up works correctly with front added through index.html (port :25000)
 If you want to work with node.js change port to (:5000)
 
-Main part
 
-/auth/register - POST
-/auth/login - POST, PUT
-/user/ - GET, PATCH
-/user/password - PUT
-/movies/ - GET (params: status, page)
-/movies/ - GET
-/genres/ - GET (params: page)
-/genres/ - GET
-/directors/ - GET (params: page)
-/directors/ - GET
-
-
-By Pavel Shaura
