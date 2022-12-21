@@ -8,7 +8,7 @@
 
 In order for each user to have the opportunity to bookmark their favorite movies for viewing later, we need to somehow differentiate them, so we organize registration and authentication pages based on the already studied JWT specification.
 
-*2. Users
+*2. Users*
 
 Each user will have a page with his profile, where he will be able to choose his favorite genre, specify his first and last name, and also, if necessary, change his password.
 
