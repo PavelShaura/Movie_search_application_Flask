@@ -4,15 +4,15 @@
 
 ## **Project Description**
 
-*1. Authentication*
+**1. Authentication**
 
 In order for each user to have the opportunity to bookmark their favorite movies for viewing later, we need to somehow differentiate them, so we organize registration and authentication pages based on the already studied JWT specification.
 
-*2. Users*
+**2. Users**
 
 Each user will have a page with his profile, where he will be able to choose his favorite genre, specify his first and last name, and also, if necessary, change his password.
 
-*3. Films, directors, genres
+**3. Films, directors, genres**
 
 Of course, you need to add the most important entities — films, directors and genres. For them, we will only make it possible to read (get requests).
 
