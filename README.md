@@ -1,4 +1,4 @@
-# My privat "Kinopoisk" with a bunch of different films!
+# "Kinopoisk" is a similar application
 
 ## This project will require knowledge of Flask, SQLAlchemy, Marshmallow (or any other validator of your choice), REST, CRUD, JWT
 
